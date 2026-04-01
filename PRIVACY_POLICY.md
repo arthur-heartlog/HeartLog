@@ -31,7 +31,7 @@ We may update our Privacy Policy from time to time. Any changes will be reflecte
 
 ## 6. Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at:
-**[Your Contact Email @example.com]**
+**HeartLog@icloud.com**
 
 ---
 
