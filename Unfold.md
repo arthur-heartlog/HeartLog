@@ -30,6 +30,6 @@ We are constantly striving to improve Unfold. If you encounter any bugs, have qu
 
 我们致力于为每一位用户提供极致优雅的使用体验。无论您有任何意见反馈、遇到问题，或者希望我们适配特定的订阅服务，欢迎通过以下渠道与我们取得联系：
 
-* **Developer Email / 开发者邮箱**: [arthur_heartlog@outlook.com](mailto:arthur_heartlog@outlook.com)
+* **Developer Email / 开发者邮箱**: HeartLog@icloud.com
 * **Feedback / 问题反馈**: Open an issue directly on our GitHub page.
 
