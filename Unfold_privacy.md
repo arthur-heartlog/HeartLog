@@ -64,7 +64,7 @@ Unfold 不使用任何第三方分析、追踪或广告 SDK。您的私人财务
 
 #### 5. 联系我们
 如果您对本隐私政策有任何疑问或疑虑，请通过以下方式联系我们：
-**arthur_heartlog@outlook.com**
+**HeartLog@icloud.com**
 
 ---
 
