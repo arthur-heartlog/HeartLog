@@ -32,7 +32,7 @@ Since all data is stored locally, you have full control:
 
 #### 5. Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at:
-**arthur_heartlog@outlook.com**
+**HeartLog@icloud.com**
 
 ---
 
